@@ -1,2 +1,1 @@
-# Yelds
-Script Admin Roblox
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
